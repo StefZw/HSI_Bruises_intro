@@ -1,0 +1,40 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+*.psd
+*.ai
+*.eps
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.log
+*.tmp
+
+# Ignore node_modules
+node_modules/
+# Ignore build output
+dist/
+build/
+# Ignore environment variables
+.env
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+data/
